@@ -1,0 +1,7 @@
+
+1) Makine öğrenmesi, yapay zekanın bir alt kümesidir.
+Yapay zeka, insan zekasını taklit eden tüm makine ve sistemlere verilen geniş bir terimdir. Yazılımsal ya da fiziksel robotlar olabilir. 
+Makine öğrenmesi ise herhangi bir yapısal programlama yapmadan algoritmaların örneklerden kendi kendine öğrenmesidir.
+2) Denetimsiz öğrenim algoritmaları, denetimli öğrenmeye kıyasla daha karmaşık işleme görevleri gerçekleştirmenizi sağlar.
+Denetimli öğrenimde sayısal giriş ve çıkış değerleri kullanılır. Örnekleri regresyon ve sınıflandırmadır. 
+Denetimsiz öğrenimde sistem öğretilmemekte, öğrenme kapsamında veriler kullanılmaktadır. Denetimsiz makine öğrenimide çıktı değerleri kullanılmaz. 
